@@ -1,1 +1,1 @@
-https://furnis.vercel.app/
+https://furnisdemo.pages.dev/
